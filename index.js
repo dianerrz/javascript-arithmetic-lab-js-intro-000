@@ -1,4 +1,6 @@
 function add(a,b) {
-  add = ${a};
-  return add; 
+  a=parseInt (a,10);
+  b=parseInt(b,10)
+  var add = a + b; 
+  return add;
 }
