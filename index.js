@@ -1,3 +1,4 @@
 function add(a,b) {
-  number += 5
+  add = ${a};
+  return add; 
 }
