@@ -19,7 +19,7 @@ function multiply(a,b) {
 function divide(a,b) {
   a=parseInt (a,10);
   b=parseInt(b,10)
-  var divide = b * a;
+  var divide = b / a;
   return divide;
 }
 function inc(n) {
