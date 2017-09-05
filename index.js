@@ -7,7 +7,7 @@ function add(a,b) {
 function subtract(a,b) {
   a=parseInt (a,10);
   b=parseInt(b,10)
-  var subtract = b - a;
+  var subtract = a-b;
   return subtract;
 }
 function multiply(a,b) {
