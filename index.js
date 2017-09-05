@@ -16,3 +16,15 @@ function multiply(a,b) {
   var multiply = b * a;
   return multiply;
 }
+function divide(a,b) {
+  a=parseInt (a,10);
+  b=parseInt(b,10)
+  var divide = b * a;
+  return divide;
+}
+function inc(n) {
+  return n++;
+}
+function dec(n) {
+  return n--;
+}
