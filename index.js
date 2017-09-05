@@ -1,4 +1,3 @@
-function add (a, b){
-  sum = ${a} + ${b};
-  return ${sum}
+function add() {
+  number += 5
 }
